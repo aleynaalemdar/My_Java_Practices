@@ -1,4 +1,4 @@
-# My Java Repository 🎯🔋
+# My Java Repository 🎯
 
 Welcome to my Java repository! Here, you'll find a collection of my work to improve myself in the Java language.
 

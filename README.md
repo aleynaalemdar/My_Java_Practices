@@ -1,4 +1,4 @@
-# My Java Repository: Homeworks and Exercises
+# My Java Repository 🎯🔋
 
 Welcome to my Java repository! Here, you'll find a collection of my work to improve myself in the Java language.
 
@@ -6,4 +6,4 @@ Feel free to explore the files and see the progress I've made throughout my Java
 
 I'm excited to share my coding achievements and showcase the skills I've developed through these studies.
 
-Thank you for visiting my repository, and happy coding!!!
+Thank you for visiting my repository, and happy coding 
